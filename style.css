@@ -210,7 +210,31 @@ justify-content: center;
 color: #007185;
 
 }
-.box-img 2{
+.box-img2{
 
 
+}
+
+.boat-container{
+    display: flex;
+    gap: 16px;
+    padding: 20px 0px 15px;
+    margin-left: 15px;
+    
+    
+    
+}
+.price-container{
+
+    
+    
+    
+}
+
+.product-details{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    /* justify-content: space-between; */
+    /* height: 600px; */
 }
